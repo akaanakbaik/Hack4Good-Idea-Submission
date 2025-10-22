@@ -311,6 +311,8 @@ _Updated automatically on merge to `main`._
 | [MealBridge](95b5d2b7938832108543b2597bba109c/update/x_snc_hack4good_0_hack4good_proposal_b1305f7dc3903210e89b341d05013130.xml) | 🌱 Sustainability and Decarbonization | <a href="https://github.com/stefanintech"><img src="https://avatars.githubusercontent.com/u/85418632?v=4&s=40" width="20" height="20" alt="@stefanintech"/> @stefanintech</a> | 2025-10-01 |
 | [Local Volunteer Opportunities](95b5d2b7938832108543b2597bba109c/update/x_snc_hack4good_0_hack4good_proposal_41bc31f1c3d03210d7b8bd0ed40131fb.xml) | 🆘 Disaster and Community Support | <a href="https://github.com/brenduh"><img src="https://avatars.githubusercontent.com/u/10159664?v=4&s=40" width="20" height="20" alt="@brenduh"/> @brenduh</a> | 2025-09-30 |
 | [Good4Me](95b5d2b7938832108543b2597bba109c/update/x_snc_hack4good_0_hack4good_proposal_a056e83553107610db6151a0a0490ec2.xml) | 🧪 Cause and Cure | <a href="https://github.com/earlduque"><img src="https://avatars.githubusercontent.com/u/31702109?v=4&s=40" width="20" height="20" alt="@earlduque"/> @earlduque</a> | 2025-09-30 |
+| [Hello World cpp](95b5d2b7938832108543b2597bba109c/update/hello-world.cpp) | 🧪 Cause and Cure | <a href="https://github.com/akaanakbaik"><img src="https://github.com/akaanakbaik.png?s=40" width="20" height="20" alt="@akaanakbaik"/> @akaanakbaik</a> | 2025-10-22 |
 <!-- ideas:end -->
+
 
 
